@@ -1,9 +1,9 @@
 # wasm-gol
 
 Game of life with Rust and Wasm
-Following the tutorial (here)[https://rustwasm.github.io/docs/book/game-of-life/implementing.html].
+Following the tutorial [here](https://rustwasm.github.io/docs/book/game-of-life/implementing.html).
 
-Requires node et. al. for server.
+Requires node et al. for server.
 
 
 ## Run
