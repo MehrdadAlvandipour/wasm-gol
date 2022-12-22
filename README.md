@@ -15,7 +15,7 @@ npm run start
 
 Then check http://localhost:8080/ 
 
-If you are already using 8080, modify "start" under "scripts" in www/package.json use another port e.g. 8090:
+If you are already using 8080, modify "start" under "scripts" in www/package.json to use another port e.g. 8090:
 
 ```
 //..
