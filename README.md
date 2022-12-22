@@ -35,7 +35,7 @@ opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization e
   reason: 'unsupported',
   code: 'ERR_OSSL_EVP_UNSUPPORTED'
 ```
-run `export NODE_OPTIONS=--openssl-legacy-provider` in your terminal and then run `npm run start` again.
+run `export NODE_OPTIONS=--openssl-legacy-provider` in your terminal ([Ref](https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported)) and then run `npm run start` again. 
 
 
 ## Summary
